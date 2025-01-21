@@ -1,0 +1,109 @@
+body{
+    background-color:rgb(68, 68, 236)
+}
+.nav{
+    background-color: white
+    padding: 15px; 
+}
+ ol,li{
+    color: white;
+ display: inline;
+ position: relative;
+ left: 600px; 
+}
+.ho{
+    position: relative;
+    left: -350px;
+    
+}
+.ser{
+    position: relative;
+    left: -330px;
+}
+.pot{
+    position: relative;
+    left: -310px;
+}
+.pri{
+     position: relative;
+    left: -290px;
+}
+.tea{
+    position: relative;
+    left: -270px;
+}
+.con{
+    position: relative;
+    left: -250px;
+}
+.bus{
+    position: relative;
+    top: -50px;
+    left: 150px;
+    color:white;
+}
+.so{
+    width: 80px;
+    height: 80px;
+    position: relative;
+    top: -120px;
+    left: 90px;
+}
+.gi{
+    width: 50px;
+    height: 50px;  
+    position: relative;
+    top: -135px;
+    left: 800px;  
+}
+.my{
+    position: relative;
+    top: 50px;
+    left: 350px;  
+}
+.hed{
+    color: white;
+    position: relative;
+    top: -50px;
+    left: 100px;  
+}
+p{
+    color: white;
+    position: relative;
+    top: -50px;
+    left: 100px;
+}
+.btn{
+    color:blue;
+    width: 150px;
+    height: 50px;
+    position: relative;
+    top: -400px;
+    left: 100px;
+    border-radius: 3px;
+    border: none;
+}
+.pic{
+    
+    position: relative;
+    top: -270px;
+    left: 300px;
+    width: 500px;
+    height: 400px;
+    border-radius: 10px;
+}
+.bod{
+    width: 50px;
+    height: 50px;
+    position: relative;
+    top: -380px;
+    left: 100px;  
+}
+footer {
+    background-color: white;
+    width: 2200px;
+    height: 2000px;
+    position: relative;
+    bottom: 150px;
+
+}
